@@ -1,0 +1,16 @@
+Description	NES	pvalue
+negative regulation of regulated secretory pathway	1.41605110874365	0.000469493794883433
+T-helper cell differentiation	1.35977270806862	3.82407935581333e-05
+T cell differentiation involved in immune response	1.35889265201426	1.20845522379348e-05
+regulation of vascular permeability	1.30534291970184	0.00158457277793996
+negative regulation of muscle cell differentiation	1.2948989824412	0.00166219140405342
+negative regulation of leukocyte activation	1.25454364952561	0.000194239465953005
+negative regulation of cell activation	1.24470967025556	0.000176065230860094
+receptor signaling pathway via STAT	1.22897574870353	0.000887374863950222
+small GTPase mediated signal transduction	1.22186686452353	3.14707866533126e-06
+negative regulation of cytokine production	1.1877660817244	0.00131618777808824
+negative regulation of cell cycle	1.17153963134638	0.00133459570078322
+chromosome segregation	1.17012860751087	0.000902146445822794
+antibacterial humoral response	-1.73433175349773	0.000478750254797834
+antimicrobial humoral response	-1.83818861666145	1.87151808096177e-06
+keratinization	-2.19506827729325	1.63512933500751e-11

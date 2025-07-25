@@ -1,0 +1,11 @@
+Term	Count	PValue
+Ferroptosis	14	2.1669514375441695E-9
+NF-kappa B signaling pathway	18	3.9118791348368636E-7
+TNF signaling pathway	17	6.820776756162017E-6
+IL-17 signaling pathway	14	5.845906644226654E-5
+Toll-like receptor signaling pathway	15	6.333324176961049E-5
+Chemokine signaling pathway	19	4.234071166413652E-4
+NOD-like receptor signaling pathway	17	0.002162787085636241
+Leukocyte transendothelial migration	12	0.004676791387409046
+Chemical carcinogenesis - reactive oxygen species	17	0.012240826773060442
+Necroptosis	13	0.019689711707764228
